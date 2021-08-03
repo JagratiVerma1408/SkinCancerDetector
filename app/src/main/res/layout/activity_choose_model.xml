@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--Use Relative Layout instead of default constrain layout.-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#000"
+    tools:context=".ChooseModel">
+
+    <TextView
+        android:layout_width="357dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:text="Brief about types of cancers and symptoms:"
+        android:textColor="#fff"
+        android:textSize="20dp"
+        android:textStyle="bold">
+
+    </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:text="
+ 1.Melanoma:
+ Melanoma, the most serious type of skin cancer, develops in the cells (melanocytes) that produce melanin — the pigment that gives your skin its color. Melanoma can also form in your eyes and, rarely, inside your body, such as in your nose or throat.
+                                                                                                                        2.Melanocytic Nevus :
+ A melanocytic nevus (also known as endocytic nevus, nevus-cell nevus, and commonly as a mole) is a type of melanocytic tumor that contains nevus cells. Some sources equate the term mole with melanocytic nevus, but there are also sources that equate the term mole with any nevus form.
+                3.Basal cell carcinoma:
+Basal cell carcinoma (BCC) is the most common form of skin cancer and the most frequently occurring form of all cancers. In the U.S. alone, more than 4 million cases are diagnosed each year. BCCs arise from abnormal, uncontrolled growth of basal cells.
+
+"
+        android:textColor="#fff">
+
+    </TextView>
+
+    <TextView
+        android:layout_width="382dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:text=" 4.Benign keratosis:
+Seborrheic keratosis: A common skin disorder that is characterized by benign, painless, often wart-like skin lesions that appear to be 'stuck on.' The raised spots are usually yellow or brown. Treatment, if warranted, involves surgical or cryo-surgical removal. Also known as seborrheic warts and verruca.
+ 5.Dermatofibroma:
+Dermatofibroma (superficial benign fibrous histiocytoma) is a common cutaneous nodule of unknown etiology that occurs more often in women. Dermatofibroma frequently develops on the extremities (mostly the lower legs) and is usually asymptomatic, although pruritus and tenderness can be present. It is actually the most common painful skin tumor.  A number of well-described, histologic subtypes of dermatofibroma have been reported. Removal of the tumor is usually not typically required unless diagnostic uncertainty exists or particularly troubling symptoms are present.
+"
+        android:textColor="#fff">
+
+    </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="75dp"
+        android:layout_marginLeft="20dp"
+        android:text="7.Vascular lesions:
+Squamous cell carcinoma of the skin is a common form of skin cancer that develops in the squamous cells that make up the middle and outer layers of the skin.
+"
+        android:textColor="#fff">
+
+    </TextView>
+
+    <Button
+        android:id="@+id/inception_float"
+        android:layout_width="198dp"
+        android:layout_height="66dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:background="#fff"
+        android:text="PREDICT"
+        android:textColor="#000"
+        android:textSize="30dp" />
+
+</LinearLayout>

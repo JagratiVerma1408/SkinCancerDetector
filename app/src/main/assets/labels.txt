@@ -1,0 +1,9 @@
+unknown
+melanoma
+melanocyticnevus
+basalcellcarcinoma
+ctinickeratosis
+benignkeratosis
+dermatofibroma
+vascularlesion
+squamouscellcarcinoma
