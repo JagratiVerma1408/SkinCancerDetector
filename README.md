@@ -1,13 +1,13 @@
 ## Skin Cancer Detector
-</h3>Android Application to find top 3 categories of the skin cancer to which the given input image matches.</h3>
+</h3>Android Application to find the top 3 categories of skin cancer to which the given input image matches..</h3>
 
 ## Main Features
 
-* Gives brief introduction about the types of skin cancer .
-* Using Input Image finding the most similar type of top 3 Skin Cancer.  
+* Gives a brief introduction about the types of skin cancer.
+* Using Input Image finding the most similar type of top 3 Skin Cancer.
 * Integrated Tfilte float Model in Android Application.
-
 ## Screenshots
+
 <table>
   <tr>
     <td>
