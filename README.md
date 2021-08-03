@@ -1,5 +1,5 @@
 ## Skin Cancer Detector
-</h3>Android Application to find the top 3 categories of skin cancer to which the given input image matches..</h3>
+</h3>Android Application to find the top 3 categories of skin cancer to which the given input image matches.</h3>
 
 ## Main Features
 
