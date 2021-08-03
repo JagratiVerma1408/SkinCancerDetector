@@ -8,8 +8,15 @@
 * Integrated Tfilte float Model in Android Application.
 
 ## Screenshots
-
-
+<table>
+  <tr>
+    <td>
+<img src="https://user-images.githubusercontent.com/58701169/128019040-2a6a5d8c-f4e9-4497-9243-2057dcb26278.jpg" width=160></td>
+    <td>
+<img src="https://user-images.githubusercontent.com/58701169/128019046-87688b2a-b428-4e08-bd7e-e17d1e768bf3.jpg" width=160>
+    </td>
+  </tr>
+  </table>
 
 
 
